@@ -1,8 +1,8 @@
 # BLYNK-STARTER
 
-#define BLYNK_TEMPLATE_ID "TMPL4j6UoSo_7"
-#define BLYNK_TEMPLATE_NAME "Quickstart Template"
-#define BLYNK_AUTH_TOKEN "d4WZEqpvoI3nrAXHsAl8vpIBbkNVh8At"
+#define BLYNK_TEMPLATE_ID "..."
+#define BLYNK_TEMPLATE_NAME "..."
+#define BLYNK_AUTH_TOKEN "..."
 
 #include <WiFi.h>
 #include <WiFiClient.h>
